@@ -1,6 +1,4 @@
 # GCEAkola
 Government College of Education Akola college website
 
-It's a php and mysql based website.
-Home page is home_page.php
-Website can be accessed on localhost using xampp server.
+The official website of Government College of Education, Akola is a comprehensive platform that provides information and resources for students, faculty, and the general public. With a user-friendly interface, the website offers details about the college's history, academic programs, faculty profiles, admission procedures, and facilities available. Visitors can access news and events, download important documents, and stay updated on the latest announcements. The website serves as a valuable resource for prospective students, current students, and alumni, fostering a sense of community and promoting transparency in the educational process at Government College of Education, Akola.
